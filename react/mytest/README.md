@@ -1,0 +1,1 @@
+Simple redux-saga state
